@@ -1,0 +1,29 @@
+. 🔑 Alpha Vantage
+✅ Free tier available (up to 500 API calls/day)
+
+📌 Covers global markets including US, Europe, Asia
+
+Steps:
+
+Go to: https://www.alphavantage.co/support/#api-key
+
+Enter your name & email
+
+Click "Get Free API Key"
+
+Check your email for the key
+
+2. 🔑 Finnhub
+✅ Free tier available (60 API calls/minute)
+
+📌 Covers real-time quotes, forex, crypto, etc.
+
+Steps:
+
+Go to: https://finnhub.io/
+
+Click "Get your free API key" or "Sign Up"
+
+After signup, go to Dashboard
+
+Your API key will be visible under API Key
